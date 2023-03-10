@@ -1,0 +1,46 @@
+* {
+    background-color: #E6D9A7;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.title p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.home {
+    display: grid;
+    place-items: center;
+}
+
+.banner {
+    height: 300px;
+    width: auto;
+    margin-top: -30px;
+}
+
+.recipe {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+ul {
+    margin-top: -20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+

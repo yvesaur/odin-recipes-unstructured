@@ -1,0 +1,37 @@
+* {
+    background-color: #E6D9A7;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.banner{
+    height: 300px;
+    width: auto;
+}
+
+
+.info,
+.content {
+    width: 600px;
+    text-align: justify;
+    font-size: 18px;
+    
+}
+
+.container,
+.header,
+.content {
+    display: grid;
+    place-items: center;
+}
+
+ol > li::marker {
+    font-weight: bold;
+  }
+
+ul > li::marker {
+    font-weight: bold;
+  }
+
+.ulli {
+    font-weight: bold;
+}
